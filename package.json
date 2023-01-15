@@ -1,0 +1,26 @@
+{
+  "name": "ts_react",
+  "version": "0.0.1",
+  "description": "React TypeScript Starter Template ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devplaybooks/ts_react.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Template",
+    "DevPlaybook"
+  ],
+  "author": "Christoph Baker <christoph@controllability.dev> (https://www.npmjs.com//~controllability)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devplaybooks/ts_react/issues"
+  },
+  "homepage": "https://github.com/devplaybooks/ts_react#readme"
+}

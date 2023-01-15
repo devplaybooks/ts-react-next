@@ -1,2 +1,2 @@
-# ts_react
-React TypeScript Starter Template
+# React TypeScript Starter Template 
+
